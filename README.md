@@ -1,13 +1,13 @@
 # Ear-Recognition
 
-#### -> The entire report (including result) is in provided pdf.<-
+#### -> The entire report (including results and a more detailed task description) is in provided pdf.<-
 
-#### -> Data is in awe folder <-
+#### -> Data is in the awe folder <-
 
 Implementation and evaluation of a popular old-school algorithm Local Binary Patterns (LBP) for the recognition task based on scientific papers. 
 In order to see that implementation works we compared this to a plain pixel-wise comparison of images and also to the OpenCV’s implementation.
 
-Done things:
+Things that were meant to do:
 
 • A loop to read all the images in grayscale and in a fixed image size (e.g. 128×128) and then call feature extractor for each one.
 
