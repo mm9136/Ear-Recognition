@@ -1,6 +1,8 @@
 # Ear-Recognition
 
--> The entire report is in provided pdf.<-
+#### -> The entire report (including result) is in provided pdf.<-
+
+#### -> Data is in awe folder <-
 
 Implementation and evaluation of a popular old-school algorithm Local Binary Patterns (LBP) for the recognition task based on scientific papers. 
 In order to see that implementation works we compared this to a plain pixel-wise comparison of images and also to the OpenCV’s implementation.
